@@ -27,3 +27,17 @@ Make sure you have Conda installed:
 conda env create -f environment.yaml
 conda activate comtie
 ```
+
+
+3. **Download Required Models**:
+
+Download YOLOv9 weights (see yolov9/ directory for instructions).
+
+Download BLIP-VQA pretrained weights (see src/ directory for details).
+
+
+## Contact
+
+For questions or collaborations, contact:
+Seyed Mohammad Hadi Hosseini
+hadi.hosseini17@sharif.edu
