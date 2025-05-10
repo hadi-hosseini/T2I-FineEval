@@ -39,5 +39,7 @@ Download BLIP-VQA pretrained weights (see src/ directory for details).
 ## Contact
 
 For questions or collaborations, contact:
+
 Seyed Mohammad Hadi Hosseini
+
 hadi.hosseini17@sharif.edu
